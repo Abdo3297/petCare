@@ -32,7 +32,6 @@ p,li {
   color:var(--black-90);
 }
 /* 04. = base */
-header,
 footer,
 section,
 div[class="home"] {
