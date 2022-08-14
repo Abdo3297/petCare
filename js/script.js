@@ -3,7 +3,7 @@ const
     counterDiv = document.querySelector(".fun-fact"),
     countersTag = document.querySelectorAll(".fun-fact h2");
 ScrollOut({
-    targets: ".fun-fact"
+    targets: ".fun-fact",
 });
 window.addEventListener("scroll", function () {
     //Counter
